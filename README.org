@@ -14,10 +14,10 @@ El objetivo de este repositorio es documentar el listado inicial de tareas que n
 
 - [ ] Motivación
 - [ ] Diseño inicial
-- [ ] Versionado: Definir ChangeLog
-- [ ] Versionado: Definir Roadmap
-- [ ] Setup: Declarar dependencias
-- [ ] Setup: Instalar dependencias
+- [ ] Versionado: Definir el ChangeLog
+- [ ] Versionado: Definir el Roadmap
+- [ ] Setup: Declarar las dependencias
+- [ ] Setup: Instalar las dependencias
 - [ ] Setup: Generar el ejecutable (build)
 - [ ] Setup: Generar el .gitignore
 - [ ] Tests: Ejecutar casos de prueba
@@ -28,7 +28,7 @@ El objetivo de este repositorio es documentar el listado inicial de tareas que n
 
 1. Clonar el repositorio
 2. Borrar el remote de origen
-3. Editar el archivo README.org
+3. Editar el archivo README.org y completar el checklist
 4. Agregar un nuevo remote
 5. Pushear hacia el nuevo repositorio
 
