@@ -13,6 +13,7 @@ El objetivo de este repositorio es documentar el listado inicial de tareas que n
 * Checklist
 
 - [ ] Motivación
+- [ ] Elegir un nombre
 - [ ] Diseño inicial
 - [ ] Versionado: Definir el ChangeLog
 - [ ] Versionado: Definir el Roadmap
@@ -20,8 +21,8 @@ El objetivo de este repositorio es documentar el listado inicial de tareas que n
 - [ ] Setup: Instalar las dependencias
 - [ ] Setup: Generar el ejecutable (build)
 - [ ] Setup: Generar el .gitignore
-- [ ] Tests: Ejecutar casos de prueba
-- [ ] Tests: Generar reporte de cobertura
+- [ ] Tests: Ejecutar casos de prueba (0/0)
+- [ ] Tests: Generar reporte de cobertura (0%)
 - [ ] Licencia: Elegir una licencia ([[https://opensource.org/licenses/MIT][MIT]] / [[https://opensource.org/licenses/GPL-3.0][GPLv3]])
 
 * Utilización
@@ -43,3 +44,4 @@ emacs README.org
 
 git remote add origin git://new.repo.url
 #+end_src
+
